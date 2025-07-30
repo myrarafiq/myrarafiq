@@ -13,7 +13,7 @@ chasing questions like *“how can we use AI for good?”* and *“what if this 
 Python, R, Pandas, Figma, Post-it notes, and whiteboards that are 90% doodles
 
 ### 🌱 Always learning:
-Making sense of messy data, testing new tools, and leveling up my CS + math + econ + data brain (because I definitely have too many interests)
+Making sense of messy data, testing new tools, and leveling up my CS + math + data brain (because I definitely have too many interests)
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/myrarafiq/)!
 
