@@ -1,6 +1,6 @@
-# hey, I'm Myra 👋
+# heyy, I'm Myra!
 
-I'm a student at **NYU Abu Dhabi**, studying Computer Science and Economics.
+I'm a Computer Science and Economics student at **NYU Abu Dhabi**.
 
 I'm primarily exploring **product, data, & software** roles, especially where **AI, technology, and business** overlap. I've worked across **EdTech, FinTech, AI/ML, and startups**, and I really enjoy being the person who can move between the technical side and the "okay, but what should we actually build?" side.
 
@@ -39,9 +39,9 @@ A few things I've built at hackathons because apparently I enjoy voluntarily giv
 
 **Languages:** Python · SQL · R · C++ · JavaScript
 
-**Data & ML:** Pandas · NumPy · Scikit-learn · Matplotlib · Statistical Modeling · ETL · Data Visualization
+**Data & Analytics:** Pandas · NumPy · Scikit-learn · Matplotlib · EDA · Statistical Modeling · ETL · Data Visualization · Business Intelligence · Power BI · Microsoft Fabric · OneLake
 
-**AI:** Machine Learning · LLMs · Prompt Engineering · AI Prototyping
+**AI:** Machine Learning · LLMs · Prompt Engineering · AI Prototyping · Feature Engineering · Model Evaluation
 
 **Web & Software:** JavaScript · React · Node.js · Express.js · Full-Stack Development
 
@@ -49,10 +49,10 @@ A few things I've built at hackathons because apparently I enjoy voluntarily giv
 
 **Product:** Product Strategy · User Research · Market Research · Figma · UI/UX · Prototyping
 
-**Tools:** Git · GitHub · Cursor · Notion · Tableau
+**Tools:** Cursor · Notion · Tableau
 
 
 ### let's connect :)
 
 📫 **[LinkedIn](https://www.linkedin.com/in/myrarafiq/)**  
-📧 **myra.rafiq@nyu.edu**
+📧 **[myra.rafiq@nyu.edu](mailto:myra.rafiq@nyu.edu)**
