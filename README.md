@@ -8,8 +8,6 @@ I'm especially interested in:
 - 📊 Data science, analytics & experimentation
 - 💳 FinTech & digital payments
 - 🎓 EdTech & the future of learning
-- 🤖 AI/ML & data-driven products
-- 💻 Software engineering & full-stack development
 - 🚀 Entrepreneurship & early-stage startups
 - 💡 Product strategy & user-focused technology
 
